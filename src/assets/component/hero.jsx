@@ -7,7 +7,7 @@ class Hero extends Component {
                 <div className="hero bg-base-200 min-h-screen">
                     <div className="hero-content flex-col lg:flex-row-reverse">
                         <img
-                            src="/src/assets/banner.png"
+                            src="/banner.png"
                             className="max-w-sm rounded-lg shadow-sm" alt='Tech Banner Image'
                         />
                         <div>

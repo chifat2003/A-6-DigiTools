@@ -17,7 +17,7 @@ class UserStep extends Component {
                                     <span className="py-2 px-3 rounded-full text-white items-center text-center bg-purple-500 ">01</span>
                                 </div>
                                 <div className='flex justify-center'>
-                                    <img src="/src/assets/user.png" alt='User' className='bg-gray-200 rounded-full p-4 w-20 h-20 mb-4' />
+                                    <img src="/user.png" alt='User' className='bg-gray-200 rounded-full p-4 w-20 h-20 mb-4' />
                                 </div>
                                 <div className="text-center pb-8">
                                     <p className='font-bold text-center text-xl'>Create Account</p>
@@ -35,7 +35,7 @@ class UserStep extends Component {
                                     <span className="py-2 px-3 rounded-full text-white items-center text-center bg-purple-500 ">02</span>
                                 </div>
                                 <div className='flex justify-center'>
-                                    <img src="/src/assets/package.png" alt='User' className='bg-gray-200 rounded-full p-4 w-20 h-20 mb-4' />
+                                    <img src="/package.png" alt='User' className='bg-gray-200 rounded-full p-4 w-20 h-20 mb-4' />
                                 </div>
                                 <div className="text-center pb-8">
                                     <p className='font-bold text-center text-xl'>Choose Products</p>
@@ -54,7 +54,7 @@ class UserStep extends Component {
                                     <span className="py-2 px-3 rounded-full text-white items-center text-center bg-purple-500 ">03</span>
                                 </div>
                                 <div className='flex justify-center'>
-                                    <img src="/src/assets/rocket.png" alt='User' className='bg-gray-200 rounded-full p-4 w-20 h-20 mb-4' />
+                                    <img src="/rocket.png" alt='User' className='bg-gray-200 rounded-full p-4 w-20 h-20 mb-4' />
                                 </div>
                                 <div className="text-center pb-8">
                                     <p className='font-bold text-center text-xl'>Start Creating</p>
