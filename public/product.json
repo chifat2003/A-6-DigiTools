@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "name": "AI Writing Pro",
+    "description": "Generate high-quality blogs, emails, and marketing copy instantly using advanced AI tools.",
+    "price": 29,
+    "period": "monthly",
+    "tag": "Best Seller",
+    "tagType": "best_seller",
+    "features": [
+      "Unlimited AI generations",
+      "50+ writing templates",
+      "Grammar & tone checker"
+    ],
+    "icon": "https://www.shutterstock.com/image-vector/ai-generated-text-vector-icon-600nw-2647238443.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Design Templates Pack",
+    "description": "Access thousands of ready-to-use design templates for social media and presentations.",
+    "price": 49,
+    "period": "one-time",
+    "tag": "Popular",
+    "tagType": "popular",
+    "features": [
+      "2000+ templates",
+      "Monthly updates",
+      "Commercial license"
+    ],
+    "icon": "https://static.vecteezy.com/system/resources/previews/008/072/027/non_2x/icon-tools-suitable-for-building-symbol-flat-style-simple-design-editable-design-template-simple-illustration-vector.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Premium Stock Assets",
+    "description": "Download royalty-free photos, videos, and graphics for creative and marketing projects.",
+    "price": 19,
+    "period": "monthly",
+    "tag": "New",
+    "tagType": "new",
+    "features": [
+      "10M+ assets",
+      "Commercial usage",
+      "No attribution required"
+    ],
+    "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhT1bXehID2YA2XFHZF40oGeub2SD29fKlVw&s"
+  },
+  {
+    "id": 4,
+    "name": "Automation Toolkit",
+    "description": "Automate repetitive workflows and integrate tools with powerful automation features.",
+    "price": 79,
+    "period": "monthly",
+    "tag": "Popular",
+    "tagType": "popular",
+    "features": [
+      "50+ automation templates",
+      "API access",
+      "Custom workflow builder"
+    ],
+    "icon": "https://thumbs.dreamstime.com/b/settings-icon-gear-vector-symbol-illustration-web-sites-our-mobile-151065571.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Resume Builder Pro",
+    "description": "Create professional resumes and cover letters with optimized templates.",
+    "price": 15,
+    "period": "one-time",
+    "tag": "New",
+    "tagType": "new",
+    "features": [
+      "100+ resume templates",
+      "ATS optimization",
+      "Export to PDF"
+    ],
+    "icon": "https://static.vecteezy.com/system/resources/previews/036/906/103/non_2x/page-facing-up-icon-vector.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Social Media Content Kit",
+    "description": "Create engaging social media posts, reels, and marketing visuals easily.",
+    "price": 39,
+    "period": "monthly",
+    "tag": "Best Seller",
+    "tagType": "best_seller",
+    "features": [
+      "5000+ social media assets",
+      "Post scheduler",
+      "Analytics dashboard"
+    ],
+    "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT8ZeQOjMr7Fvs6-yo5a8je91xevLrntbZRg&s📱"
+  },
+  {
+    "id": 7,
+    "name": "SEO Optimization Suite",
+    "description": "Improve your website ranking with keyword research and on-page SEO tools.",
+    "price": 59,
+    "period": "yearly",
+    "tag": "Popular",
+    "tagType": "popular",
+    "features": [
+      "Keyword research tool",
+      "Site audit reports",
+      "Competitor analysis"
+    ],
+    "icon": "https://img.freepik.com/premium-vector/seo-optimization-website-icon-gear-magnifier_8071-36836.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Website Builder Pro",
+    "description": "Build modern responsive websites without coding using drag-and-drop tools.",
+    "price": 99,
+    "period": "yearly",
+    "tag": "New",
+    "tagType": "new",
+    "features": [
+      "Drag & drop builder",
+      "100+ website blocks",
+      "Mobile responsive templates"
+    ],
+    "icon": "https://www.nicepng.com/png/detail/278-2788937_product-icons-grey-devops-code-build-icon.png"
+  }
+]
